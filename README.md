@@ -22,7 +22,7 @@ library_management/
 │
 ├── library.py       # Main script with Library, Book, User classes and logic
 └── library.db       # SQLite database (auto-generated on first run)
-
+```
 # 💻 How to Run
 
 ### Clone the Repository
